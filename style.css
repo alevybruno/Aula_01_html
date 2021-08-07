@@ -1,0 +1,12 @@
+body {
+    background-image: url(IMG/hell-sigma.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1500px;
+    background-attachment: fixed;
+}
+
+button {
+    background-color: palevioletred;
+}
+  
